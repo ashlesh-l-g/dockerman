@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+dockman
+
+# Runtime files
+run/*.pid
+logs/*.log
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
